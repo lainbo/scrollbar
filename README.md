@@ -1,38 +1,30 @@
-<h1 align="center">
+# <h1 align="center">
   <br>
-  <a href="https://www.scrollbar.app"><img src="src/assets/logo.png" alt="Scrollbar.app" width="140"></a>
+  <a href="https://scrollbar.lainbo.dev/"><img src="src/assets/logo.png" alt="Scrollbar.app" width="140"></a>
   <br>
   Scrollbar.app
   <br>
 </h1>
-<h4 align="center">Simple online tool for designing scrollbars.</h4>
+<h4 align="center">一个简单的在线滚动条设计工具</h4>
 
-</p>
-   
-<p align="center">
- <img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/f9fb51ca-ecbe-4c00-adae-4ed64922e234/deploy-status" >
-  <img alt="GitHub language" src="https://img.shields.io/github/languages/top/henripar/scrollbar">
- <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/henripar/scrollbar">
-   <img alt="GitHub" src="https://img.shields.io/github/license/henripar/scrollbar">
-</p>
+## 关于
 
-## About
+Scrollbar.app 是一个简单的网页应用，帮助开发者设计和实现自定义滚动条。
+这是[原项目](https://github.com/henripar/scrollbar)的中文汉化版本
 
-Scrollbar.app is a simple web app which helps developers to design and implement custom scrollbars.
-
-## Project Setup
+## 项目设置
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 开发环境编译和热重载
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 生产环境编译和压缩
 
 ```sh
 npm run build
